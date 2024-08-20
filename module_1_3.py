@@ -2,7 +2,7 @@ name = "Artem"
 print ("Name:", name)
 age = 22
 print ("Age:", age)
-new_age = 23
-print ("New gae:", new_age)
+age = age + 1
+print ("New gae:", age)
 is_student = True
 print ("Is Student:", is_student)
